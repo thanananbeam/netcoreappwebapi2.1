@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplicationWebapp</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplicationWebapp.Controllers.AuthController.Index">
+            <summary>
+            ขอค่า getToken
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

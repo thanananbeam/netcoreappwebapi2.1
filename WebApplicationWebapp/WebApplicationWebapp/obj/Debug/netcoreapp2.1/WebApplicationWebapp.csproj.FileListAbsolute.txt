@@ -1,0 +1,16 @@
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\bin\Debug\netcoreapp2.1\WebApplicationWebapp.deps.json
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\bin\Debug\netcoreapp2.1\WebApplicationWebapp.runtimeconfig.json
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\bin\Debug\netcoreapp2.1\WebApplicationWebapp.runtimeconfig.dev.json
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\bin\Debug\netcoreapp2.1\WebApplicationWebapp.dll
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\bin\Debug\netcoreapp2.1\WebApplicationWebapp.pdb
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\obj\Debug\netcoreapp2.1\WebApplicationWebapp.RazorAssemblyInfo.cache
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\obj\Debug\netcoreapp2.1\WebApplicationWebapp.RazorAssemblyInfo.cs
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\obj\Debug\netcoreapp2.1\WebApplicationWebapp.AssemblyInfoInputs.cache
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\obj\Debug\netcoreapp2.1\WebApplicationWebapp.AssemblyInfo.cs
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\obj\Debug\netcoreapp2.1\WebApplicationWebapp.RazorTargetAssemblyInfo.cache
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\obj\Debug\netcoreapp2.1\WebApplicationWebapp.dll
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\obj\Debug\netcoreapp2.1\WebApplicationWebapp.pdb
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\thananan\source\repos\WebApplicationWebapp\WebApplicationWebapp\obj\Debug\netcoreapp2.1\WebApplicationWebapp.csprojAssemblyReference.cache
